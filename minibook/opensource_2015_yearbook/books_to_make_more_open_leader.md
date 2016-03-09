@@ -4,7 +4,19 @@
 本文系[Opensouce.com](https://opensource.com/)所发布的《开源2015年鉴》的其中一篇，介绍了去年美国出版的关于开放的组织以及如何更好的领导这些组织的书籍。
 
 --------------------------------------------------
+开源的原则依然在不断的影响着新的领域，而在过去的2015年这一过程明显是加速的。传统组织的架构正在让位于新的模式－更加开放的模式－而且我们合作的方式也在迅速的改变。
+
+在 Jim Whitehurst 在2015年的6月出版的图书《The Open Organization》中，它总结了多年所积淀的内容：一种新的管理模式，一种能够适应21世纪的模式。
+
+--------------------------------------------------
 ![peitu](https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/osdc-open-source-yearbook-lead4_sm.png?itok=Vmu9Vw3y)
+
+##[发现你真正的方向](http://discoveryourtruenorth.org/)
+
+** 作者 Bill George ** （由[Sam Knuth](https://opensource.com/users/samfw)推荐） 
+
+
+
 
 --------------------------------------------------
 [![book](https://opensource.com/sites/default/files/resize/images/life-uploads/true_north_cover-150x229.jpg)](http://discoveryourtruenorth.org/)
